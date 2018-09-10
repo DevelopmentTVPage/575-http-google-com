@@ -1,0 +1,15 @@
+{
+    "title": "Sample Google Project",
+    "baseURL": "https:\/\/http:\/\/google.com\/mysubfolderplace",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1759247",
+        "subfolder": "\/mysubfolderplace",
+        "firstpartycookies": true,
+        "cookiedomain": "google.com"
+    }
+}
